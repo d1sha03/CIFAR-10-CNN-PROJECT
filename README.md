@@ -7,7 +7,7 @@ SGD with momentum achieved the best validation accuracy (**80.53%**) and demonst
 
 All experiments use fixed seeds, standardized preprocessing, and a constant learning rate to isolate optimizer behavior.
 
-📄 A **detailed experimental report and ablation study** is available in the `docs/` directory.
+https://d1shasaini.hashnode.dev/my-baseline-broke-what-an-18-accuracy-gap-taught-me-about-deep-learning?utm_source=hashnode&utm_medium=feed
 
 ## Run
 ```bash
